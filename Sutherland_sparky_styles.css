@@ -77,11 +77,11 @@ q {
     font-style:italic;
 }
 span.year {
-background-color: #ffc627;
-color:#555;
-padding:4px;
-font-size:20px;
-font-weight:bold;
+    background-color: #ffc627;
+    color:#555;
+    padding:4px;
+    font-size:20px;
+    font-weight:bold;
 }
 footer h2 {
     font-size:24px;
